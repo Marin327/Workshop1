@@ -1,0 +1,29 @@
+#main {
+    position: static;
+}
+
+#field {
+    position: fixed;
+    cursor: none;
+}
+
+#itemField {
+    position: fixed;
+    border: 3px solid black;
+}
+
+.image-object {
+    background-size: 100% 100%;
+    position: absolute;
+}
+
+.player {
+    position: absolute;
+    z-index: 10;
+}
+
+button {
+    margin-bottom: 100px;
+}
+
+
